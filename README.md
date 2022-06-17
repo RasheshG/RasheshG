@@ -19,7 +19,8 @@ Calculate F(32,10).
     and oppossible of it.
  3) considering board sizes (2x1 and 3x1) , floor size must be minimum 5 otherwise pattern count will be 0.
  
- **Output **
+ ****Output ****
+  
  In case of Floor Max size as 9 and total no of floors as 3 i.e f(9,3) , value is appearing as 6.
   **Option 1**
  2,2,2,3
