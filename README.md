@@ -23,6 +23,7 @@ Calculate F(32,10).
  **Output**
   
  In case of Floor Max size as 9 and total no of floors as 3 i.e f(9,3) , value is appearing as 6.
+ 
   **Option 1**
  2,2,2,3
  3,2,2,2
