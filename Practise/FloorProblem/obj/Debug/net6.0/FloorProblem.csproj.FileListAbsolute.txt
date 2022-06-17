@@ -1,0 +1,15 @@
+C:\Rashesh\Practise\FloorProblem\bin\Debug\net6.0\FloorProblem.exe
+C:\Rashesh\Practise\FloorProblem\bin\Debug\net6.0\FloorProblem.deps.json
+C:\Rashesh\Practise\FloorProblem\bin\Debug\net6.0\FloorProblem.runtimeconfig.json
+C:\Rashesh\Practise\FloorProblem\bin\Debug\net6.0\FloorProblem.dll
+C:\Rashesh\Practise\FloorProblem\bin\Debug\net6.0\ref\FloorProblem.dll
+C:\Rashesh\Practise\FloorProblem\bin\Debug\net6.0\FloorProblem.pdb
+C:\Rashesh\Practise\FloorProblem\obj\Debug\net6.0\FloorProblem.csproj.AssemblyReference.cache
+C:\Rashesh\Practise\FloorProblem\obj\Debug\net6.0\FloorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rashesh\Practise\FloorProblem\obj\Debug\net6.0\FloorProblem.AssemblyInfoInputs.cache
+C:\Rashesh\Practise\FloorProblem\obj\Debug\net6.0\FloorProblem.AssemblyInfo.cs
+C:\Rashesh\Practise\FloorProblem\obj\Debug\net6.0\FloorProblem.csproj.CoreCompileInputs.cache
+C:\Rashesh\Practise\FloorProblem\obj\Debug\net6.0\FloorProblem.dll
+C:\Rashesh\Practise\FloorProblem\obj\Debug\net6.0\ref\FloorProblem.dll
+C:\Rashesh\Practise\FloorProblem\obj\Debug\net6.0\FloorProblem.pdb
+C:\Rashesh\Practise\FloorProblem\obj\Debug\net6.0\FloorProblem.genruntimeconfig.cache
