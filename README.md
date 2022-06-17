@@ -7,9 +7,6 @@ There are eight ways of forming an acceptable 9 3 floor, expressed as F(9,3) = 8
 Calculate F(32,10).
 ![image](https://user-images.githubusercontent.com/68649744/174351826-3c7049a7-2e8a-4921-9b9d-15696b05b23f.png)
 
-Your program should be written in C, C++, C#, Java, Python, or Ruby.  The program should produce one line of output consisting of the numerical answer to the problem.  You should zip up your source code for your program and return it before your interview.  Please to not include executable code in the zip file as our email server will flag and delete it before it reaches us.  If your code is in an immediately executable language such as python, please change to or add a filename extensions of ‘.txt’ so that it won’t be blocked.
-Note that the program you produce is just as important as having the correct answer.  The purpose of this exercise is to provide a starting point from which we can discuss your programming skills during the interview.
-
 
 **Solution Approach **
 
